@@ -1,0 +1,3 @@
+grades = ("a", "a", "b", "c")
+
+print(grades.count("a"))
