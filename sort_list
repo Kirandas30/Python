@@ -1,0 +1,4 @@
+grades = ["c", "a", "b", "c"]
+
+grades.sort()
+print(grades)
